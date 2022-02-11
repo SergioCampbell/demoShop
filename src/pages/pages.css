@@ -1,0 +1,24 @@
+.login{
+    margin: 12em;
+    padding: 2em 0 0 0;
+    background: linear-gradient(270deg,rgba(73, 196, 230, 0.6),rgba(228, 173, 253, 0.6)),url("https://cdn.pixabay.com/photo/2017/08/02/00/49/people-2569234_1280.jpg") no-repeat;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.btn-purpel{
+    background-color: rgba(230, 67, 230, 0.898);
+    color: white;
+    margin-bottom: 3em;
+    margin-top: 1em;
+}
+
+.btn-purpel:hover{
+    background-color: rgba(148, 0, 148, 0.816);
+}
+
